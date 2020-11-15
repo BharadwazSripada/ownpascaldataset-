@@ -1,0 +1,38 @@
+<annotation>
+	<folder>testimages</folder>
+	<filename>bikes.jpg</filename>
+	<path>C:\Users\212626492\Desktop\REVA\Research project\testimages\bikes.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>610</width>
+		<height>327</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>object</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>73</ymin>
+			<xmax>337</xmax>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>object</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>70</ymin>
+			<xmax>610</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>
